@@ -1,0 +1,96 @@
+.loading
+{
+	display: none;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	opacity: 0.7;
+	background-color: White;
+	z-index: 8000;
+	background-image: url(/style/spinner.gif);
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+.tasks
+{
+	position: relative;
+}
+.ajax__calendar_container
+{
+	width: 165px !important;
+	border: 1px solid #66afe9 !important;
+	border-radius: 4px !important;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.075),0 0 8px rgba(102,175,233,0.6);
+}
+.ajax__calendar_header
+{
+	height: auto !important;
+	padding: 3px !important;
+}
+.ajax__calendar_prev
+{
+}
+.ajax__calendar_title
+{
+}
+.ajax__calendar_next
+{
+}
+.ajax__calendar_body
+{
+	width: 100% !important;
+}
+.ajax__calendar_days
+{
+	width: 100% !important;
+}
+.ajax__calendar_dayname
+{
+	font-weight: bold !important;
+}
+.ajax__calendar_day
+{
+	text-align: center !important;
+	border: 0 !important;
+}
+.ajax__calendar_months
+{
+	width: 100% !important;
+}
+.ajax__calendar_month
+{
+	border: 0 !important;
+	height: 47px !important;
+	width: 39px !important;
+}
+.ajax__calendar_years
+{
+	width: 100% !important;
+}
+.ajax__calendar_year
+{
+	border: 0 !important;
+	height: 47px !important;
+	width: 39px !important;
+}
+.ajax__calendar_footer
+{
+	height: auto !important;
+	padding: 3px !important;
+}
+.ajax__calendar_today
+{
+}
+.ajax__calendar_hover
+{
+}
+.ajax__calendar_active
+{
+}
+.ajax__calendar_other
+{
+}
+.ajax__calendar
+{
+	top: 31px !important;
+}
